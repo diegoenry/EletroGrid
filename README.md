@@ -1,5 +1,6 @@
 # EletroGrid
 Calcula o potencial eletrostático no entorno de uma molécula
+http://lmdm.biof.ufrj.br/software/eletrogrid/index.html
 
 # Descrição
 * O programa EletroGrid calcula o potencial eletrostático em uma carga de prova, pela lei de Coulomb, em uma rede de pontos no espaço no entorno de uma molécula.
